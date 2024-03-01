@@ -10,13 +10,3 @@ A Simple python script that creates a specific amount of files on your pc accord
 
 ### Getting in trouble at school
 - If you get caught, we aren't affiliated.
-
-
-## How to use
-Make sure you have installed python and you've added it to your path.
-- Go to your terminal and use cd on the path you've saved the Python File.
-- If the python file is called main.py all you have to do is
-- Run
-```
-py main.py
-```
