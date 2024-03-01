@@ -10,3 +10,12 @@ A Simple python script that creates a specific amount of files on your pc accord
 
 ### Getting in trouble at school
 - If you get caught, we aren't affiliated.
+
+
+## Major Update
+- All code will get a revamp after march
+### May Include
+- Only a bat file
+- Nicer Looks
+- More Efficient
+- Better
